@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Hardeep Bhavsar</h1>
-<h3 align="center">Aspiring software developer from India</h3>
+<h3 align="center">Aspiring Software Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hardeepmb&label=Profile%20views&color=0e75b6&style=flat" alt="Hardeep3105" /> </p>
 
-- 🔭 I’m currently working on **java spring boot**
+- 🔭 I’m currently working on **Java Spring Boot**
 
 - 🌱 I’m currently learning **Fullstack Development**
 

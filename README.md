@@ -19,7 +19,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/hardeep-bhavsar-572858184/" target="blank"><img align="center" src="http://t0.gstatic.com/images?q=tbn:ANd9GcRMCA3j2A8hfLl9p5UAU5nd9lvqLlNZvqoU4xOsZ192uH4IYS6X" alt="https://www.linkedin.com/in/hardeep-bhavsar-572858184/" height="30" width="30" /></a>
 <a href="codechef.com/users/hardeepmb" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="codechef.com/users/hardeepmb" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/hmbhavsar95" target="blank"><img align="center" src="https://commons.wikimedia.org/wiki/File:HackerRank_Icon-1000px.png" alt="https://www.hackerrank.com/hmbhavsar95" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/hmbhavsar95" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" alt="https://www.hackerrank.com/hmbhavsar95" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user" height="30" width="40" /></a>
 </p>
 
